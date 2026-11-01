@@ -1,0 +1,213 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Ravioli de Banana",
+      "categoria": "Massas Recheadas",
+      "preco": 50.00,
+      "descricao": "Massa recheada com banana, ideal para acompanhar molhos doces ou salgados.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, banana, açúcar, canela",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 2,
+      "nome": "Ravioli Costela",
+      "categoria": "Massas Recheadas",
+      "preco": 80.00,
+      "descricao": "Massa recheada com costela desfiada, um sabor robusto e suculento.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, costela, cebola, alho, especiarias",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 3,
+      "nome": "Ravioli de Pêra com Gorgonzola",
+      "categoria": "Massas Recheadas",
+      "preco": 75.00,
+      "descricao": "Combinação sofisticada de pêra doce com o toque marcante do gorgonzola.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, pêra, gorgonzola, nozes",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 4,
+      "nome": "Ravioli Carne Seca",
+      "categoria": "Massas Recheadas",
+      "preco": 85.00,
+      "descricao": "Massa recheada com carne seca desfiada e temperos nordestinos.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, carne seca, cebola, alho, cheiro-verde",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 5,
+      "nome": "Ravioli de Figo com Brie",
+      "categoria": "Massas Recheadas",
+      "preco": 80.00,
+      "descricao": "Massa recheada com figo e queijo brie, equilíbrio perfeito entre doce e cremoso.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, figo, brie, mel",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 6,
+      "nome": "Ravioli de Mix de Queijos",
+      "categoria": "Massas Recheadas",
+      "preco": 75.00,
+      "descricao": "Massa recheada com uma seleção especial de queijos nacionais e importados.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, muçarela, provolone, parmesão, gorgonzola",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 7,
+      "nome": "Ravioli de Frango",
+      "categoria": "Massas Recheadas",
+      "preco": 55.00,
+      "descricao": "Massa recheada com frango desfiado e temperos caseiros.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, frango, cebola, alho, salsinha",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 8,
+      "nome": "Ravioli de Carne de Panela",
+      "categoria": "Massas Recheadas",
+      "preco": 70.00,
+      "descricao": "Massa recheada com carne de panela cozida lentamente e desfiada.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, carne bovina, cebola, alho, tomate",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 9,
+      "nome": "Ravioli de Camarão",
+      "categoria": "Massas Recheadas",
+      "preco": 0.00,
+      "descricao": "Massa recheada com camarão (preço a consultar).",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, camarão, alho, azeite",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 10,
+      "nome": "Agnolotti de Espinafre, Mussarela e Tomate Seco",
+      "categoria": "Massas Recheadas",
+      "preco": 75.00,
+      "descricao": "Massa recheada com espinafre, mussarela e tomate seco, um sabor mediterrâneo.",
+      "peso": "1kg",
+      "ingredientes": "Massa fresca, espinafre, mussarela, tomate seco, azeite",
+      "tempo_preparo": "5-7 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 11,
+      "nome": "Lasanha (Frango ou Carne Moída)",
+      "categoria": "Massas Recheadas",
+      "preco": 55.00,
+      "descricao": "Lasanha pronta para assar, com recheio de frango ou carne moída (escolha no pedido).",
+      "peso": "1kg",
+      "ingredientes": "Massa, molho, frango/carne, queijo, temperos",
+      "tempo_preparo": "40 minutos (forno)",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 12,
+      "nome": "Lasanha de Costela",
+      "categoria": "Massas Recheadas",
+      "preco": 60.00,
+      "descricao": "Lasanha com recheio de costela desfiada, molho e queijo gratinado.",
+      "peso": "1kg",
+      "ingredientes": "Massa, costela, molho, queijo, temperos",
+      "tempo_preparo": "40 minutos (forno)",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 13,
+      "nome": "Lasanha (500g)",
+      "categoria": "Massas Recheadas",
+      "preco": 27.50,
+      "descricao": "Lasanha em porção de 500g, ideal para uma refeição individual.",
+      "peso": "500g",
+      "ingredientes": "Massa, molho, queijo, temperos",
+      "tempo_preparo": "35 minutos (forno)",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 14,
+      "nome": "Rondelli",
+      "categoria": "Massas Recheadas",
+      "preco": 55.00,
+      "descricao": "Massa enrolada com recheio cremoso, tradicional da culinária italiana.",
+      "peso": "1kg",
+      "ingredientes": "Massa, ricota, presunto, mussarela, molho",
+      "tempo_preparo": "30 minutos (forno)",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 15,
+      "nome": "Macarrão Talharim Seco",
+      "categoria": "Massas Lisas",
+      "preco": 20.00,
+      "descricao": "Talharim seco, massa lisa e versátil para diversos molhos.",
+      "peso": "1kg",
+      "ingredientes": "Farinha de trigo, ovos, sal",
+      "tempo_preparo": "8-10 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 16,
+      "nome": "Macarrão Talharim Pré-cozido",
+      "categoria": "Massas Lisas",
+      "preco": 25.00,
+      "descricao": "Talharim pré-cozido, pronto para finalizar rapidamente.",
+      "peso": "1kg",
+      "ingredientes": "Farinha de trigo, ovos, sal",
+      "tempo_preparo": "2-3 minutos",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 17,
+      "nome": "Molho 4 Queijos",
+      "categoria": "Molhos",
+      "preco": 17.00,
+      "descricao": "Molho cremoso com quatro tipos de queijo, perfeito para massas.",
+      "peso": "500g",
+      "ingredientes": "Muçarela, provolone, parmesão, gorgonzola, creme de leite",
+      "tempo_preparo": "Pronto para servir",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 18,
+      "nome": "Molho Sugo",
+      "categoria": "Molhos",
+      "preco": 17.00,
+      "descricao": "Molho de tomate caseiro, com manjericão e azeite, sabor tradicional.",
+      "peso": "500g",
+      "ingredientes": "Tomate, cebola, alho, manjericão, azeite",
+      "tempo_preparo": "Pronto para servir",
+      "imagem": "imagens/placeholder.png"
+    },
+    {
+      "id": 19,
+      "nome": "Molho Bolonhesa",
+      "categoria": "Molhos",
+      "preco": 22.00,
+      "descricao": "Molho à base de carne moída e tomate, clássico italiano.",
+      "peso": "500g",
+      "ingredientes": "Carne moída, tomate, cebola, alho, vinho tinto",
+      "tempo_preparo": "Pronto para servir",
+      "imagem": "imagens/placeholder.png"
+    }
+  ]
+}
